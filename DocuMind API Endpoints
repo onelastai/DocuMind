@@ -1,0 +1,8 @@
+## POST /parse
+Parses a document and returns raw text
+
+## POST /summarize
+Summarizes parsed content using LLM
+
+## GET /status
+Returns agent health and config

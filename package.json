@@ -1,0 +1,13 @@
+{
+  "name": "documind",
+  "version": "0.1.0",
+  "description": "AI agent for document parsing and summarization",
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "ts-node": "^10.0.0"
+  }
+}
+

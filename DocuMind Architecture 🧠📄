@@ -1,0 +1,7 @@
+DocuMind is built as a modular TypeScript agent with the following layers:
+- Parser Layer: Reads and cleans document input
+- Summarizer Layer: Uses LLM to generate summaries
+- Config Layer: Centralized agent settings
+- Utils Layer: Logging and helpers
+- Public Layer: Branding assets
+
